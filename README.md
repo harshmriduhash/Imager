@@ -30,15 +30,5 @@ Contributions are welcome! Please follow these guidelines when contributing to t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Special thanks to [name], [name], and [name] for their contributions and support.
-- AI image generation powered by [AI framework/tool/library].
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out to us at [email address].
-
 ---
-
 Feel free to adjust any section or add more details as needed. Let me know if you need further assistance!
