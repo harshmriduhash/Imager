@@ -1,11 +1,3 @@
-Great! Here's a suggested README file for your GitHub repository:
-
----
-
-# Imager
-
-![Imager Logo](https://your-logo-url-here)
-
 Imager is a cutting-edge image generator web application built on the MERN stack (MongoDB, Express.js, React.js, Node.js). This application leverages AI-generated images to provide users with unique and creative visuals.
 
 ## Features
